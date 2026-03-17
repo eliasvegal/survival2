@@ -28,6 +28,21 @@ El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugador
 
 ⚠️ Puede ser necesario **abrir o redirigir el puerto del router (port forwarding)** para permitir conexiones externas.
 
+## Requisitos para jugar
+
+- SO: Windows 7 / Linux / macOS
+- Procesador: Dual Core 2.0 GHz
+- Memoria: 4 GB RAM
+- Gráficos: Integrada (Intel HD o similar)
+- Red: Conexión a internet o LAN
+- Almacenamiento: ~300 MB disponibles
+
+- ## Posibles problemas
+
+- Si no puedes conectarte:
+  - Verifica que el puerto 25565 esté abierto en el router
+  - Asegúrate de que el firewall no bloquee la conexión
+
 ## Estado del proyecto
 
 Este proyecto **no está terminado** y se comparte principalmente como un **prototipo o experimento**.
@@ -39,4 +54,4 @@ Este proyecto **no está terminado** y se comparte principalmente como un **prot
 
 ## Autor
 
-Proyecto creado como práctica y aprendizaje.
+Proyecto creado por Elias como práctica y aprendizaje.
