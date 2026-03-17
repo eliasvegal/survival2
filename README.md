@@ -3,6 +3,9 @@
 Este es un **prototipo de juego multijugador** hecho en **Unity**.
 El proyecto nunca fue terminado, pero la funcionalidad básica del multijugador funciona.
 
+<img width="1919" height="1079" alt="Captura de pantalla 2026-03-17 070138" src="https://github.com/user-attachments/assets/5c73a3ca-1055-4144-834b-b7331a224156" />
+
+
 El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugadores se conecten a un host y jueguen juntos.
 
 ## Características
@@ -12,6 +15,8 @@ El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugador
 * Movimiento básico de jugador
 * Multijugador en red local (LAN)
 * También puede funcionar por internet compartiendo la **IP pública del host**
+
+<img width="1919" height="1079" alt="Captura de pantalla 2026-03-17 070254" src="https://github.com/user-attachments/assets/75af79c3-fe48-46d3-ace8-04a71e07790c" />
 
 ## Cómo jugar
 
