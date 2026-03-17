@@ -13,6 +13,8 @@ El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugador
 * Multijugador usando **UNet**
 * Sistema de **Host / Cliente**
 * Movimiento básico de jugador
+* Chat en el servidor
+* Notificaciones cuando un jugador se conecta o se desconecta
 * Multijugador en red local (LAN)
 * También puede funcionar por internet compartiendo la **IP pública del host**
 
