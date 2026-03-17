@@ -20,7 +20,7 @@ El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugador
 
 ## Cómo jugar
 
-1. Descargar "Survival2 1.0" en Releases
+1. Descargar "Survival2_1.0" en Releases
 2. Abrir Survival.exe
 3. Un jugador inicia el juego y crea el **host**.
 4. El host comparte su **IP pública** con los demás jugadores.
