@@ -19,6 +19,8 @@ El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugador
 * También puede funcionar por internet compartiendo la **IP pública del host**
 
 <img width="1919" height="1079" alt="Captura de pantalla 2026-03-17 070254" src="https://github.com/user-attachments/assets/75af79c3-fe48-46d3-ace8-04a71e07790c" />
+<img width="1919" height="1079" alt="Captura de pantalla 2026-03-17 195258" src="https://github.com/user-attachments/assets/9e565732-8405-48f9-bd72-a566f0291ae7" />
+
 
 ## Cómo jugar
 
