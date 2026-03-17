@@ -28,7 +28,7 @@ El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugador
 
 ⚠️ Puede ser necesario **abrir o redirigir el puerto del router (port forwarding)** para permitir conexiones externas.
 
-## Requisitos para jugar
+## Requisitos minimos
 
 - SO: Windows 7 / Linux / macOS
 - Procesador: Dual Core 2.0 GHz
@@ -46,6 +46,14 @@ El juego utiliza **UNet** para el sistema de red, permitiendo que varios jugador
 ## Estado del proyecto
 
 Este proyecto **no está terminado** y se comparte principalmente como un **prototipo o experimento**.
+
+## Requisitos para desarrollo
+
+- Unity 2017.4.40f1
+- Sistema operativo: Windows, Linux o macOS
+- IDE opcional: Visual Studio, VS Code o similar
+
+> ⚠️ El proyecto utiliza UNet (obsoleto), por lo que versiones más nuevas de Unity pueden no ser compatibles.
 
 ## Notas
 
