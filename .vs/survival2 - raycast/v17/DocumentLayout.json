@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eleli\\survival2 - raycast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD92B-1BAE-A48D-491B-EAA95D8D17FE}|Assembly-CSharp.csproj|C:\\Users\\eleli\\survival2 - raycast\\assets\\jugador\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD92B-1BAE-A48D-491B-EAA95D8D17FE}|Assembly-CSharp.csproj|solutionrelative:assets\\jugador\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD92B-1BAE-A48D-491B-EAA95D8D17FE}|Assembly-CSharp.csproj|C:\\Users\\eleli\\survival2 - raycast\\assets\\jugador\\raycast\\interactuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD92B-1BAE-A48D-491B-EAA95D8D17FE}|Assembly-CSharp.csproj|solutionrelative:assets\\jugador\\raycast\\interactuable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBCD92B-1BAE-A48D-491B-EAA95D8D17FE}|Assembly-CSharp.csproj|c:\\users\\eleli\\survival2 - raycast\\assets\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FBCD92B-1BAE-A48D-491B-EAA95D8D17FE}|Assembly-CSharp.csproj|solutionrelative:assets\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\eleli\\survival2 - raycast\\Assets\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\eleli\\survival2 - raycast\\Assets\\MenuManager.cs*",
+              "RelativeToolTip": "Assets\\MenuManager.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T03:13:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interactuable.cs",
+              "DocumentMoniker": "C:\\Users\\eleli\\survival2 - raycast\\Assets\\jugador\\raycast\\Interactuable.cs",
+              "RelativeDocumentMoniker": "Assets\\jugador\\raycast\\Interactuable.cs",
+              "ToolTip": "C:\\Users\\eleli\\survival2 - raycast\\Assets\\jugador\\raycast\\Interactuable.cs",
+              "RelativeToolTip": "Assets\\jugador\\raycast\\Interactuable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:53:08.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\eleli\\survival2 - raycast\\Assets\\jugador\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\jugador\\player.cs",
+              "ToolTip": "C:\\Users\\eleli\\survival2 - raycast\\Assets\\jugador\\player.cs",
+              "RelativeToolTip": "Assets\\jugador\\player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T00:29:49.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

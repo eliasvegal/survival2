@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 9799767c7e5030d4bb5d8534d1f1dba9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BearManMesh
+    100004: BearManRig
+    100006: chest
+    100008: f_middle._end.R
+    100010: f_middle._end.R_end
+    100012: f_middle.L
+    100014: f_middle.R
+    100016: f_middle_end.L
+    100018: f_middle_end.L_end
+    100020: foot.L
+    100022: foot.R
+    100024: foot_end.L
+    100026: foot_end.L_end
+    100028: foot_end.R
+    100030: foot_end.R_end
+    100032: forearm.L
+    100034: forearm.R
+    100036: hand.L
+    100038: hand.R
+    100040: head
+    100042: head_end
+    100044: head_end_end
+    100046: neck
+    100048: pelvis
+    100050: shin.L
+    100052: shin.R
+    100054: shoulder.L
+    100056: shoulder.R
+    100058: spine
+    100060: thigh.L
+    100062: thigh.R
+    100064: thumb.01.L
+    100066: thumb.02.L
+    100068: thumb.R
+    100070: thumb.R.001
+    100072: thumb.R.001_end
+    100074: thumb_end.L
+    100076: thumb_end.L_end
+    100078: upper_arm.L
+    100080: upper_arm.R
+    400000: //RootNode
+    400002: BearManMesh
+    400004: BearManRig
+    400006: chest
+    400008: f_middle._end.R
+    400010: f_middle._end.R_end
+    400012: f_middle.L
+    400014: f_middle.R
+    400016: f_middle_end.L
+    400018: f_middle_end.L_end
+    400020: foot.L
+    400022: foot.R
+    400024: foot_end.L
+    400026: foot_end.L_end
+    400028: foot_end.R
+    400030: foot_end.R_end
+    400032: forearm.L
+    400034: forearm.R
+    400036: hand.L
+    400038: hand.R
+    400040: head
+    400042: head_end
+    400044: head_end_end
+    400046: neck
+    400048: pelvis
+    400050: shin.L
+    400052: shin.R
+    400054: shoulder.L
+    400056: shoulder.R
+    400058: spine
+    400060: thigh.L
+    400062: thigh.R
+    400064: thumb.01.L
+    400066: thumb.02.L
+    400068: thumb.R
+    400070: thumb.R.001
+    400072: thumb.R.001_end
+    400074: thumb_end.L
+    400076: thumb_end.L_end
+    400078: upper_arm.L
+    400080: upper_arm.R
+    2100000: Man
+    2100002: Bear
+    2100004: Axe
+    4300000: BearManMesh
+    7400000: BearManRig|Idle01
+    7400002: BearManRig|Idle02
+    7400004: BearManRig|SprintAxeDown
+    7400006: BearManRig|SprintAxeUp
+    7400008: BearManRig|T-Pose
+    7400010: BearManRig|WalkAxeDown
+    7400012: BearManRig|WalkAxeUp
+    9500000: //RootNode
+    13700000: BearManMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
