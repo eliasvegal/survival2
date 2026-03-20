@@ -65,4 +65,4 @@ Este proyecto **no está terminado** y se comparte principalmente como un **prot
 
 ## Autor
 
-Proyecto creado por Elias como práctica y aprendizaje.
+Proyecto creado por Elias como práctica y aprendizaje. Si tienes alguna duda o quieres preguntar algo sobre el código en Unity, no dudes en escribirme a: elaiasleonel@gmail.com
